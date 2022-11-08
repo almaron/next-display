@@ -1,0 +1,9 @@
+{
+  "h1": "Welcome to {{link}}",
+  "change-locale": "Switch to {{changeTo}}",
+  "blog": {
+    "link": {
+      "title": "Demiurge"
+    }
+  }
+}
